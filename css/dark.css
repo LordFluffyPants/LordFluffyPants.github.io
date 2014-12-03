@@ -50,6 +50,9 @@ h1 {
 .wikipedia {
     background-image: url('../images/wikipedia.jpg');
 }
+.WowHead {
+    background-image: url('../images/wow.png');
+}
 
 /* Grey button */
 .buttonGrey > a,
