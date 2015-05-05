@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Fluffy Game Reviews
-description:      'Testing templates for game review site'
+description:      'Game Reviews with a little bit of fluffyness'
 tagline: 		  Game reviews done fluffy
 url:              https://github.com/LordFluffyPants
 baseurl:          /
