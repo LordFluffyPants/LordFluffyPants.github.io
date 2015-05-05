@@ -7,6 +7,7 @@ I am LordFluffyPants and I have been playing video games since I was five years 
 
 ###Review Criteria 
 My goal when reviewing games is to convey how fun the game is to me and if I would recommend this at full asking price at time of review. To do this I will go over in every review:
+
 + Story
 + Style 
 + Mechanics
