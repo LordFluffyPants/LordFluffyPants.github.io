@@ -10,6 +10,7 @@ This is a list of the games that I am currently playing, planning to write revie
 
 ###Games I am playing to review later on
 + Killing Floor 2
++ Deep Dungeons of Doom 
 
 ###Games I am currently writting reviews for
 + None
