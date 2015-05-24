@@ -17,3 +17,9 @@ My goal when reviewing games is to convey how fun the game is to me and if I wou
 + Style 
 + Mechanics
 + My gameplay experience
+
+### TK Stamm
+I'm Tk, I play games.  Many games, for unhealthy periods of time.  Then I spout opinions about them with friends, and some of the more cohesive stuff ends up here.  I play an odd assortment of stuff, but mostly obsess about more challenge-oriented stuff such as the Souls series and high end raiding. Check out my [Steam profile](http://steamcommunity.com/profiles/76561198033602993/).
+
+####Review Criteria
+I tend to pay attention to how a game functions mechanicly, how quickly it can get me to care about the story, detail/sound/level design, and how much the experience felt like it was worth in dollars if possible
