@@ -3,17 +3,17 @@ layout: page
 title: Games List
 ---
 
-This is a list of the games that I am currently playing, planning to write reviews, writing reviews for, and games that I have finished reviewing.
+This is a list of the games that we are currently playing, planning to write reviews, writing reviews for, and games that we have finished reviewing.
 
-###Games I am currently playing (no plan for review)
+###Games we are currently playing (no plan for review)
 + World of Warcraft
++ Mortal Kombat X
 
-###Games I am playing to review later on
-+ Killing Floor 2
-+ Deep Dungeons of Doom 
+###Games we are playing to review later on
++ Witcher 3
 
-###Games I am currently writting reviews for
-+ None
+###Games we are currently writting reviews for
++ Transistor
 
 ###Finished Reviews 
 + None
