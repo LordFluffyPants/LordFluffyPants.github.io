@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The Day Before RTX 2015
+post_author: Jake
 ---
 
 ![image](http://static-label.frontgatetickets.com/label/1569/img/header.jpg "RTX 2015 or Fluffy Game Reviews goes to RTX 2 electric boogaloo ")

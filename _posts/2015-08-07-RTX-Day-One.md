@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Day 1 - RTX 2015
+post_author: Jake
 ---
 
 ![image](http://i.imgur.com/gj15Uru.jpg "I can already smell the crowd from here")
