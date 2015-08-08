@@ -450,3 +450,7 @@ a.pagination-item:hover {
   font-size: 18.75px;
   color: #333;
 }
+.page,
+.post-content-truncate {
+  margin-bottom: 4em;
+}
