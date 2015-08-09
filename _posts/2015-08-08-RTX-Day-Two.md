@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: Day 2 - RTX 2015
+post_author: Jake
+---
+
+![image](http://i.imgur.com/ApV2VYn.jpg "This is a line for a line; nothing out of the ordinary here")
+
+
+Day two electric boogaloo: the paneling. I was able to attend 4 panels today as well as get to play some very kick ass games today! The panel lines were long as hell not to mention they would fill up pretty quick. But if you were pretty lucky you might have been able to squeeze in at the last moment and Nick was able to attend the Concert.
+
+The first panel that I attended was the RvB panel. Something was very wrong though; I was able to get into the panel without having to wait in a long ass line. I waited a bit for the panel to start and then the RvB team filed onto the stage. They had a pretty funny exclusive video to show us today. PSA: The #1 movie in the galaxy 2: Sarge Harder. Then the group talked about the new RvB info book and showed off some of the pages in it. Some of the pages included the info on all the maps they have used in RvB, Character Bios, The Wisdom of caboose, Blood gulch mission book, how to build a robot, and one of the most interesting things in the RvB universe; the definitive timeline. They then took questions from the audience. There were a lot of general questions that have been answered in past panels or have been discussed but some good questions did arise. From the questions we learned that season 14 was going to be written by some guest writers doing short stories on characters. Marketing RvB was pretty challenging and difficult because it was a series done on a video game and the stigma of video games at the time. Because of how new and different machinima was it was almost revered in high art culture for its creative uses all over the world. Any scenes where there are multiple characters in the shot is really challenging to animate. The initial plan for RvB was only to create six episodes and then it exploded in popularity and continued it. Then those were the last questions answered and they had another special treat for us. They played RvB episode 17 early for the audience.
+
+
+![image](http://i.imgur.com/WyYpO4v.jpg "We need to have a new plague or something like holy shit so many people")
+
+
+Then it was back to the main show floor where I was able to play some more interesting games. I played [Chibi Knight](http://store.steampowered.com/app/283080/) which was an interesting game with a very causal audience in mind. Developed by PestoForce which is a father daughter team which is pretty friggin cool. Then I went to the [Fenji](http://finji.co/) booth where they showed off [A Night in the Woods](http://www.nightinthewoods.com/) which is this really awesome story based game with these cute angsty characters in their twenties. This game had me wanting to play more which is a really good sign. They also showed off [Panoramical](http://www.panoramic.al/) which is a pretty neat idea. It is a music "game" where you are able to change the landscape and the changes that you make will effect the music that is playing. You can expect reviews of these games in the future. Then it was off to the next panel!
+
+
+![image](http://i.imgur.com/Ro9I0V8.jpg "Such a tiny room for such an extremely technical panel")
+
+
+The next panel was the Editing Rooster Teeth Panel. This panel was like every other one except the room was pretty tiny and the turnout was small in comparison to other panels. This was to be expected from a very technical panel but was still shocking to me. The team was Daniel, Chris, Freddie, and Lauren. They go around the panel and talk about what they have edited and the pains and joys of being an editor. They all had really good advice for a technical panel about editing and what can and will make you a good editor. They also went on to talk about the editing process used in office divorce, showing the before and after and how the edits push the narrative. They started to wrap up all the questions and then talked about some of the best editing hey have seen in movies. Some of the movies that they listed were the opera scene in the new mission impossible, edge of tomorrow, and anything Spielberg. One of the things that really stuck with me was something Lauren said. "You shouldn't notice good editing". Immediately I turned around for the Sounds of Rooster Teeth panel.
+
+
+If the turn out for the editing panel was small then the sounds of Rooster Teeth panel must have been a local meet up of fans. Clayton leads the panel and is very friendly towards the audience treating us like his friends. Daniel then shows up and the panel begins. Clayton then tells us what was going on when he joined Rooster Teeth and some of his past experiences working in movies and for bigger studios. Clayton and Daniel then talk about the process they go through and the some of the libraries that they use on a daily basis; such as Adobe sound effects, the recordist, audio blocks, and audio network. They talked about how Joel and Matt are some of the funniest people to work with. They go over some of the small nuances about adding sound into film that make them what they are. Talked about how they hate cutting to black and how they feel that it is the job of the sound engineer to make transitions without fade to black. Then we got some funny outtakes in the recording booth that aren’t going to be in any dvds. Such as the Felix theme song and sound bites from various recording sessions that Clayton uses in his own personal sound board. We had a quick Q&A session that went into a lot of technical detail. One of the more interesting tidbits to me was that Daniel really liked creating the sounds for all the RWBY weapons and how he came up for how they should sound.
+
+
+Finally on my way back from the Sound panel I was lucky enough to catch the Lazer Team panel. The Lazer team panel talked about what a wonderful time it was to be able to have this opportunity to work on such a big movie, and the opportunity it was to work with such amazing actors. They showed off the NR trailer for Lazer team and showed multiple clips from the movie. Most of the Q&A questions were just about the funny moments that happened during recording. Most of the answers I felt were answered if you followed the podcast. Overall for any technical information about Lazer Team this wasn't the panel for it, but for getting to enjoy some early Lazer Team action and comedy out of the crew it was a great panel. 
+
+
+The concert was almost a train wreck after discovering an extravagant line more than 2 hours before the scheduled event, but it was well worth the risk of waiting for hours on the streets of Austin and possibly not getting a ticket in. Well after the line finally wrapped around the building, they started handing out ticket stubs to people until they hit capacity. Most of the RT celebs were entertaining themselves by playing jokes on the incoming convention goers unfortunate enough to not get a spot in line. But the 2 collective hours felt like nothing after Video Game Orchestra completely blew everyone away with crazy speed-metal to soulful grooves. They were later joined by Jeff and Casey Williams for some RWBY tunes and a heartfelt thanks and goodbye to Monty from Jeff and ending with the appropriate song Time to Say Goodbye.
+
+~Nick
+
+
+Today was an amazing day for going to panels and learning a lot of information about the process and the behind the scenes at Rooster Teeth. We can't wait to check out the awesome games that we haven't been able to see yet tomorrow the last day of RTX 2015!
