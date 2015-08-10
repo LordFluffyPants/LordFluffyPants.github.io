@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.9.0
+version:          0.9.27
 
 github:
   repo:           https://github.com/LordFluffyPants
