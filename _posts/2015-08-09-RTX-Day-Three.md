@@ -7,7 +7,7 @@ post_author: Jake
 ![image](http://i.imgur.com/ghmpFse.jpg "Pit People; People in a Pit. This is an accurate description of RTX")
 
 
-The Final and last hurrah of RTX 2015. The last day is always a grab bag of joy and sadness. Most of the day was going to the last panels what we were able to attend, standing in lines to be able to play some of the remaining games, and watching center stage. We met some pretty rad people when we were getting food at the convention center as well. The last day was one of the best as the convention was winding down and people tended to open up more while waiting in lines
+The final and last hurrah of RTX 2015. The last day is always a grab bag of joy and sadness. Most of the day was going to the last panels what we were able to attend, standing in lines to be able to play some of the remaining games, and watching center stage. We met some pretty rad people when we were getting food at the convention center as well. The last day was one of the best as the convention was winding down and people tended to open up more while waiting in lines
 
 
 ![image](http://i.imgur.com/nl22lro.jpg "There are almost more people on this panel than in the audience")
