@@ -7,7 +7,7 @@ post_author: Jake
 ![image](http://i.imgur.com/gj15Uru.jpg "I can already smell the crowd from here")
 
 Today it begins, the crowds, the lines, and the general odor. Today was the first day of RTX and oh boy did I forget how much fun RTX was. Meeting people in lines, talking to the game devs, and just the general atmosphere of the entire convention is amazing. The one thing that I did notice was that there were a lot more merchandise sellers on the main show floor. Can't complain though, was able to pick up some amazing stuff, such as the [Superfight](http://www.superfightgame.com/) Red deck which entertained us for hours on end with some very funny off-color humor.
-![image](images/Superfight.jpg "We determined that his kink was putting a fur suit on the animal as well")
+![image](http://i.imgur.com/pBFoEDX.jpg "We determined that his kink was putting a fur suit on the animal as well")
 
 Most of the day was spent wandering around the main floor ogling the amazing stands and the wonderful games that were on display. There were not a lot of panels that interested us on the first day and unfortunately none of us were able to make the RWBY panel but luckily we were able to see the highlight.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AyHYO7UtS74" frameborder="0" allowfullscreen></iframe>
