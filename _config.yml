@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Fluffy Game Reviews
-description:      'Games, Passion, and Fluffyness'
-tagline: 		  What are games without some fluff
+title:            BOE Reviews
+description:      'Best Opinions Ever'
+tagline: 		  The best opinions Ever on the internet
 url:              https://github.com/LordFluffyPants
 baseurl:          /
 

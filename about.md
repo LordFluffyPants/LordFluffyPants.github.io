@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About The Fluffiness
+title: About The Reviewers
 ---
 
-Here at Fluffy Game Reviews we pride ourselves on a long history of playing games. With a backgrounds and interests in computers, games, and gamer culture we aim to further the medium by giving fair and honest reviews. Most of the reviews here, while aiming to be objective as possible, have subjective content within them. Better understanding the reviewer of the game will greatly help to make an educated decision of whether or not you should buy these games. It will also help you to find different viewpoints and open the door for newer gaming experiences.
+Here at BOE Reviews we pride ourselves on a long history of playing games. With a backgrounds and interests in computers, games, and gamer culture we aim to further the medium by giving fair and honest reviews. Most of the reviews here, while aiming to be objective as possible, have subjective content within them. Better understanding the reviewer of the game will greatly help to make an educated decision of whether or not you should buy these games. It will also help you to find different viewpoints and open the door for newer gaming experiences.
 
 ###Jake Hayhurst
 Hello my name is Jake and I have been playing video games since I was five years old. I am currently studying computer science at [Christopher Newport University](http://cnu.edu) and wish to be involved in creating games using what I have learned. Some of my favorite game genres are: strategy, 4x, fighting, moba, ARPG, and MMO. To see the games that I am currently playing check out my [Steam profile](http://steamcommunity.com/id/LFP/).
