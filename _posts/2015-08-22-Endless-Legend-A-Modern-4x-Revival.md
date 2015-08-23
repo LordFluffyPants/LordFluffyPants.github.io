@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Endless Legend: A Modern 4x Revival
+title: Endless Legend - A Modern 4x Revival
 post_author: Jake Hayhurst
 ---
 ![image](http://i.imgur.com/FKCFJAB.jpg "I can already tell this isn't going to end well for me")
