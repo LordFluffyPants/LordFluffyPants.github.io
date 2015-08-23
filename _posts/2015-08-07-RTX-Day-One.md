@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Day 1 - RTX 2015
-post_author: Jake
+post_author: Jake Hayhurst
 ---
 
 ![image](http://i.imgur.com/gj15Uru.jpg "I can already smell the crowd from here")

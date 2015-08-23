@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Day 2 - RTX 2015
-post_author: Jake
+post_author: Jake Hayhurst
 ---
 
 ![image](http://i.imgur.com/ApV2VYn.jpg "This is a line for a line; nothing out of the ordinary here")

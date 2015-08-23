@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Day 3 - RTX 2015
-post_author: Jake
+post_author: Jake Hayhurst
 ---
 
 ![image](http://i.imgur.com/ghmpFse.jpg "Pit People; People in a Pit. This is an accurate description of RTX")
