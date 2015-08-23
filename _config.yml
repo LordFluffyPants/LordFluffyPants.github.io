@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            BOE Reviews
-description:      'Best Opinions Ever'
-tagline: 		  The best opinions Ever on the internet
+description:      'The best opinions ever on the internetBest Opinions Ever'
+tagline: 		  Best Opinions Ever
 url:              https://github.com/LordFluffyPants
 baseurl:          /
 
