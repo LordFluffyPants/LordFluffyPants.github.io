@@ -29,7 +29,7 @@ function removeMascot() {
 $(document).ready(function(event) {
     var mascotEnable    = true;
     var mascotPath      = "newTab/images/mascots/"
-    var mascotList      = [ 'Beard1.png', 'Beard2.png', 'Beard3.png', 'Beard4.png' ];
+    var mascotList      = [ 'Beard1.png', 'Beard2.png', 'Beard3.png', 'Beard4.png', 'Beard5.png' ];
 
     var mascot          = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
     var mascotMinWidth  = '750';
