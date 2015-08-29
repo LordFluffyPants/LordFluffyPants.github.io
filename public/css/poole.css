@@ -308,15 +308,15 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #6a9fb5;
 }
 .masthead-title a {
-  color: #505050;
+  color: #6a9fb5;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #9dc0ce;
   letter-spacing: 0;
 }
 
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #6a9fb5;
 }
 .page-title,
 .post-title {
@@ -349,14 +349,14 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #9dc0ce;
 }
 
 .author {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #9dc0ce;
 }
 
 /* Related posts */
