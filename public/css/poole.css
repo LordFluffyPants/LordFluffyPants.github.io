@@ -349,14 +349,14 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9dc0ce;
+  color: #989898;
 }
 
 .author {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9dc0ce;
+  color: #989898;
 }
 
 /* Related posts */
