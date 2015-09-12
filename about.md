@@ -9,7 +9,7 @@ Here at BOE Reviews we pride ourselves on a long history of playing games. With 
 Hello my name is Jake and I have been playing video games since I was five years old. I am currently studying computer science at [Christopher Newport University](http://cnu.edu) and wish to be involved in creating games using what I have learned. Some of my favorite game genres are: strategy, 4x, fighting, moba, ARPG, and MMO. To see the games that I am currently playing check out my [Steam profile](http://steamcommunity.com/id/LFP/).
 
 ####Review Criteria 
-My goal when reviewing games is to convey how fun the game is to me and if I would recommend this at full asking price at time of review. I plan to go over my gameplay experiences, story, ascetics, and mechanics. 
+My goal when reviewing games is to convey how fun the game is to me. I pick games that I feel stongly about, weither it be in a positive light or a negative one. I plan to go over my gameplay experiences, story, ascetics, and mechanics if they are relevent to the gameplay. 
 
 ###TK Stamm
 I'm Tk, I play games.  Many games, for unhealthy periods of time.  Then I spout opinions about them with friends, and some of the more cohesive stuff ends up here.  I play an odd assortment of stuff, but mostly obsess about more challenge-oriented stuff such as the Souls series and high end raiding. Check out my [Steam profile](http://steamcommunity.com/profiles/76561198033602993/).
