@@ -2,18 +2,20 @@
     This work is free. You can redistribute it and/or modify it under the
     terms of the Do What The Fuck You Want To Public License, Version 2,
     as published by Sam Hocevar. See the COPYING file for more details. */
-html {
+html 
+{
     height: 100%;
     margin: 0;
     padding: 0;
     font-size: 0;
 }
-body {
+body 
+{
     height: 100%;
     margin: 0;
     padding: 0;
     font-size: 0;
-    font-family: Tahoma;
+    font-family: Dina;
     text-align: center;
     border: 0;
 }

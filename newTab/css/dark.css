@@ -4,7 +4,9 @@
     as published by Sam Hocevar. See the COPYING file for more details. */
 
 body {
-    background: #1D1F21;
+    background-image: url("../images/bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .highlite {
@@ -13,15 +15,18 @@ body {
 
 main {
     background-color: #282A2E;
+    opacity: .6;
+    filter: alpha(opacity=60);
     border-color: #373B41;
 }
 
 h1 {
-    color: #FFF;
+    color: #506c46;
 }
 
+
 .subtitle {
-    color: #FFF;
+    color: #506c46;
 }
 
 .searchBar::-webkit-input-placeholder {
@@ -57,11 +62,12 @@ h1 {
 /* Grey button */
 .buttonGrey > a,
 .buttonGrey > ul {
+    color: #506c46;
     border-color: #373B41;
 }
 .buttonGrey > a,
 .buttonGrey > ul > li > a {
-    color: #81A2BE;
+    color: #445c3c;
     background: #1D1F21;
 }
 .buttonGrey > a:after {
@@ -69,15 +75,15 @@ h1 {
 }
 .buttonGrey:hover > a,
 .buttonGrey > ul > li > a:hover {
-    color: #d67b96;
-    background: #70293b;
+    color: #171f14;
+    background: #506c46;
 }
 .buttonGrey:hover > a,
 .buttonGrey:hover > ul {
-    border-color: #70293b;
+    border-color: #506c46;
 }
 .buttonGrey:hover > a:after {
-    border-left-color: #d67b96;
+    border-left-color: #171f14;
 }
 
 /* Green button */
@@ -95,15 +101,15 @@ h1 {
 }
 .buttonGreen:hover > a,
 .buttonGreen > ul > li > a:hover {
-    color: #269926;
-    background: #67E667;
+    color: #222e1e;
+    background: #506c46;
 }
 .buttonGreen:hover > a,
 .buttonGreen:hover > ul {
-    border-color: #67E667;
+    border-color: #506c46;
 }
 .buttonGreen:hover > a:after {
-    border-left-color: #269926;
+    border-left-color: #222e1e;
 }
 
 /* column standard colors */
@@ -118,41 +124,18 @@ h1 {
     text-shadow: 0 0.5px #373B41;
 }
 .column > ul > li > a {
-    color: #81A2BE;
+    color: #506c46;
 }
 
-/* Row purple highlite */
-.columnPurple:hover > a,
-.columnPurple:hover > ul > li:before {
-    color: #3c3a5c;
-}
-.columnPurple:hover > a {
-    text-shadow: 0 0.5px #b9b6d9;
-}
-.columnPurple > ul > li > a:hover {
-    color: #b9b6d9;
-}
-
-/* Row pink highlite */
-.columnPink:hover > a,
-.columnPink:hover > ul > li:before {
-    color: #70293b;
-}
-.columnPink:hover > a {
-    text-shadow: 0 0.5px #d67b96;
-}
-.columnPink > ul > li > a:hover {
-    color: #d67b96;
-}
 
 /* Row green highlite */
-.columnGreen:hover > a,
+/*.columnGreen:hover > a,
 .columnGreen:hover > ul > li:before {
-    color: #43644a;
+    color: #171f14;
 }
 .columnGreen:hover > a {
-    text-shadow: 0 0.5px #729a64;
+    text-shadow: 0 0.5px #506c46;
 }
 .columnGreen > ul > li > a:hover {
-    color: #91b476;
-}
+    color: #506c46;
+}*/
