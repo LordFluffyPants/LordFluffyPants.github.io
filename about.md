@@ -18,4 +18,4 @@ I'm Tk, I play games.  Many games, for unhealthy periods of time.  Then I spout 
 I tend to review games I feel strongly one way or another about, try to pick apart the successful or unsuccessful elements, and end with some kind of recommendation. In general though, I'll try to cover pacing, story, addictiveness, core gameplay, soundtrack, and overall aesthetic if it's relevant.  There's no real cohesive time period or style to the games, just the whims of a drunken madman.
 
 ###Nick Montgomery
-[Steam Profile](http://steamcommunity.com/profiles/76561198059887910)
+Nick is a close friend and will write commentary or reviews from time to time. [Steam Profile](http://steamcommunity.com/profiles/76561198059887910)
