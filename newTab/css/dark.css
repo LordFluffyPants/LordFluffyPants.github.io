@@ -4,9 +4,10 @@
     as published by Sam Hocevar. See the COPYING file for more details. */
 
 body {
-    background-image: url("../images/bg.png");
+    /*background-image: url("../images/bg.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    */
 }
 
 .highlite {
@@ -15,8 +16,8 @@ body {
 
 main {
     background-color: #282A2E;
-    opacity: .6;
-    filter: alpha(opacity=60);
+    opacity: .8;
+    filter: alpha(opacity=80);
     border-color: #373B41;
 }
 
