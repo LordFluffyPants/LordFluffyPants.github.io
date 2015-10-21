@@ -59,6 +59,9 @@ h1 {
 .WowHead {
     background-image: url('../images/wow.png');
 }
+.wolfram {
+    background-image: url('../images/wolfram.png');
+}
 
 /* Grey button */
 .buttonGrey > a,
