@@ -15,19 +15,19 @@ body {
 }
 
 main {
-    background-color: #282A2E;
+    background-color: #191716;
     opacity: .8;
     filter: alpha(opacity=80);
     border-color: #373B41;
 }
 
 h1 {
-    color: #506c46;
+    color: #bc9d66;
 }
 
 
 .subtitle {
-    color: #506c46;
+    color: #bc9d66;
 }
 
 .searchBar::-webkit-input-placeholder {
@@ -66,55 +66,31 @@ h1 {
 /* Grey button */
 .buttonGrey > a,
 .buttonGrey > ul {
-    color: #506c46;
-    border-color: #373B41;
+    color: #bc9d66;
+    border-color: #383332;
 }
 .buttonGrey > a,
 .buttonGrey > ul > li > a {
-    color: #445c3c;
-    background: #1D1F21;
+    color: #a17e3e;
+    background: #191716;
 }
 .buttonGrey > a:after {
-    border-left-color: #373B41;
+    border-left-color: #383332;
 }
 .buttonGrey:hover > a,
 .buttonGrey > ul > li > a:hover {
-    color: #171f14;
-    background: #506c46;
+    color: #43454f;
+    background: #bc9d66;
 }
 .buttonGrey:hover > a,
 .buttonGrey:hover > ul {
-    border-color: #506c46;
+    border-color: #bc9d66;
 }
 .buttonGrey:hover > a:after {
-    border-left-color: #171f14;
+    border-left-color: #43454f;
 }
 
-/* Green button */
-.buttonGreen > a,
-.buttonGreen > ul {
-    border-color: #91b476;
-}
-.buttonGreen > a,
-.buttonGreen > ul > li > a {
-    color: #43644a;
-    background: #729a64;
-}
-.buttonGreen > a:after {
-    border-left-color: #91b476;
-}
-.buttonGreen:hover > a,
-.buttonGreen > ul > li > a:hover {
-    color: #222e1e;
-    background: #506c46;
-}
-.buttonGreen:hover > a,
-.buttonGreen:hover > ul {
-    border-color: #506c46;
-}
-.buttonGreen:hover > a:after {
-    border-left-color: #222e1e;
-}
+
 
 /* column standard colors */
 .column {
@@ -128,18 +104,18 @@ h1 {
     text-shadow: 0 0.5px #373B41;
 }
 .column > ul > li > a {
-    color: #506c46;
+    color: #bc9d66;
 }
 
 
-/* Row green highlite */
-/*.columnGreen:hover > a,
+
+.columnGreen:hover > a,
 .columnGreen:hover > ul > li:before {
-    color: #171f14;
+    color: #604848;
 }
 .columnGreen:hover > a {
-    text-shadow: 0 0.5px #506c46;
+    text-shadow: 0 0.5px #604848;
 }
 .columnGreen > ul > li > a:hover {
-    color: #506c46;
+    color: #604848;
 }*/
