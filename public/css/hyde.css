@@ -173,7 +173,7 @@ a.sidebar-nav-item:focus {
     margin-left: 4rem;
     margin-right: 22rem;
     */
-    margin-left: auto;
+    margin-left: 22rem;
     margin-right: 22rem;
   }
   .layout-reverse .content a,
