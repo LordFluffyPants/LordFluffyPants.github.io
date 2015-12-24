@@ -155,12 +155,10 @@ a.sidebar-nav-item:focus {
     background-color: #6a9fb5;
   }
   .layout-reverse .content {
-   /*
+   
     margin-left: 2rem;
     margin-right: 20rem;
-    */
-    margin-left: auto;
-    margin-right: auto;
+    
   }
   .layout-reverse .content a,
   .layout-reverse .related-posts li a:hover {
@@ -175,7 +173,7 @@ a.sidebar-nav-item:focus {
     margin-left: 4rem;
     margin-right: 22rem;
     */
-    margin-left: auto;
+    margin-left: 4rem;
     margin-right: auto;
   }
   .layout-reverse .content a,
