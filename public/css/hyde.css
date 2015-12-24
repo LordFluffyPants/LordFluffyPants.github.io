@@ -173,7 +173,6 @@ a.sidebar-nav-item:focus {
     */
     margin-left: auto;
     margin-right: auto;
-    width: 4rem;
   }
   .layout-reverse .content a,
   .layout-reverse .related-posts li a:hover {
