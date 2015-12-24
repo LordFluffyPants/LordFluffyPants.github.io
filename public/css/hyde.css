@@ -169,11 +169,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    /*
-    margin-left: 4rem;
-    margin-right: 22rem;
-    */
     margin: auto;
+    padding-left: 4rem;
+    padding-right: 22rem;
+    
   }
   .layout-reverse .content a,
   .layout-reverse .related-posts li a:hover {
