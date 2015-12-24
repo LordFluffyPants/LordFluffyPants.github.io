@@ -132,12 +132,20 @@ a.sidebar-nav-item:focus {
     margin-left: 20rem;
     margin-right: 2rem;
   }
+  .content a,
+  .related-posts li a:hover {
+    color: #6a9fb5;
+  }
 }
 
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
+  }
+  .content a,
+  .related-posts li a:hover {
+    color: #6a9fb5;
   }
 }
 
