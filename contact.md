@@ -9,4 +9,4 @@ If you are trying to get in contact with us personally you may contact us at
 
 Jake Hayhurst: [Email](mailto:rixmaddi@gmail.com)
 
-Richard Stamm: [Steam profile](http://steamcommunity.com/profiles/76561198033602993/)
+TK Stamm: [Steam profile](http://steamcommunity.com/profiles/76561198033602993/)
