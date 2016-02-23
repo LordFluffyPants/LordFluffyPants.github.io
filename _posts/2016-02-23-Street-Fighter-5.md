@@ -6,7 +6,7 @@ post_author: Jake Hayhurst
 
 ![image](http://i.imgur.com/PyOGEFK.png"Awwwwww shiiiiit baby it's Street Fighter")
 
-Let's start right off the bat by saying that Street Fighter 5 is probably going to be a hard sell. Even though it might be a hard sell I haven't been able to put the game down. Most of the time I would normally be playing Heroes of the Storm has been replaced with bodying and getting bodied. So then why is this game going to be a hard sell? More importantly if someone has any good tech for Laura please contact me.
+Let's start right off the bat by saying that Street Fighter 5 is probably going to be a hard sell. Even though it might be a hard sell I haven't been able to put the game down. Most of the time I would normally be playing Heroes of the Storm has been replaced with bodying and getting bodied. The game is fun, the controls are tight, the netcode is fantastic, everything that should make a good fighting game is there. So then why is this game going to be a hard sell? More importantly if someone has any good tech for Laura please contact me.
 
 
 ![image](http://i.imgur.com/Fm1yc0T.jpg "This took me all of 2 and a half hours")
