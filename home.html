@@ -7,6 +7,11 @@
         <link rel="stylesheet" style="text/css" href="newTab/css/general.css" />
         <link rel="stylesheet" style="text/css" href="newTab/css/dark.css" title="Kuroneko" />
         <link rel="stylesheet" type="text/css" href="newTab/css/style1.css" />
+        <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+        <script src="newTab/js/weather.js"></script>
         <script type="text/javascript" src="newTab/js/modernizr.custom.86080.js"></script>
     </head>
     <body>
@@ -22,7 +27,7 @@
         <main>
             <header>
                 <h1>Let's Pretend the Internet is Productive</h1>
-                <p class="subtitle">You really should be working</p>
+      					<h2 id="description"></h2>
             </header>
             <section class="searchContainer">
                 <form class="searchForm" method="get" action="https://google.com/search">
