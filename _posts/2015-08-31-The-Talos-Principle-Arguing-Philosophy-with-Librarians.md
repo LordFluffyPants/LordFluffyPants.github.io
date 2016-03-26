@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: The Talos Principle - Arguing Philosophy with Librarians
 post_author: TK Stamm
@@ -26,3 +26,6 @@ The finale is satisfying enough to shake the player out of the lull of checking 
 ![image](http://i.imgur.com/Tq8Fflm.jpg)
 
 There's more to say about secrets, the good art direction, the Easter eggs, the exploration, the sound design, and all that stuff, but to me that's just icing.  The best thing I can tell you about this game is that the cake is delicious and plentiful and filled with robot bits and philosophy.  Like all good birthday cakes should be.   Just do yourself one favor when playing - don't go in like a completionist.  There's enough secrets and stars to wear you out by the halfway mark. You can go back to any puzzle at any time and hunt for them later.
+
+
+Buy The Talos Principle on [Steam](http://store.steampowered.com/app/257510/).

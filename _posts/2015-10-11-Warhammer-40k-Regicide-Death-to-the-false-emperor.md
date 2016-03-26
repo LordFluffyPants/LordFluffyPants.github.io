@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Warhammer 40k Regicide - Death to False Emperor (Checkmate Space Marines).
 post_author: Jake Hayhurst
@@ -7,13 +7,13 @@ post_author: Jake Hayhurst
 ![image](http://wp6109-flywheel.netdna-ssl.com/wp-content/uploads/2015/02/Warhammer40K_Regicide_1.jpg "The Space Marines March to their deaths as they should")
 
 
-I will be the first one to admit, I hate the space marines. Infact I hate the Imperium as a whole except for the Inquisition and the Adepta Sororitas. So a game that allows me to kill space marines over and over again is already a good game in my book. Warhammer Regicide is all of that mixed with chess and some turn based elements. 
+I will be the first one to admit, I hate the space marines. Infact I hate the Imperium as a whole except for the Inquisition and the Adepta Sororitas. So a game that allows me to kill space marines over and over again is already a good game in my book. Warhammer Regicide is all of that mixed with chess and some turn based elements.
 
 Warhammer regicide is one of the first warhammer games to come out from the [long list of warhammer games]("http://www.pcgamer.com/warhammer-games-40k/") that are being developed. With Bloodbowl 2 out, Regicide is one of the first warhammer strategy games to come out from that list. And overall its pretty good but still could have room for improvements.
 
-Lets get the bad out of the way first. I'm pretty sure that all warhammer games require some form of clunky UI. There are exceptions but a majority of warhammer games don't always have the best UI. Regicide is no exception, while its UI is good it still lacks some simplicity to help navigate the menus. If you just want to do a quick match against the AI, it's not clear how to switch from the space marines to the orcs. You end up having to click on the space marine portrait to switch to the orcs. Let's say that you no longer want to play the quick match but you want to play online. Hitting escape doesn't bring you out of the menu but in the bottom right, next to the system settings is the back button. Navigating the UI isn't a big deal though there is much more to complain about. 
+Lets get the bad out of the way first. I'm pretty sure that all warhammer games require some form of clunky UI. There are exceptions but a majority of warhammer games don't always have the best UI. Regicide is no exception, while its UI is good it still lacks some simplicity to help navigate the menus. If you just want to do a quick match against the AI, it's not clear how to switch from the space marines to the orcs. You end up having to click on the space marine portrait to switch to the orcs. Let's say that you no longer want to play the quick match but you want to play online. Hitting escape doesn't bring you out of the menu but in the bottom right, next to the system settings is the back button. Navigating the UI isn't a big deal though there is much more to complain about.
 
-Go ahead and start a game of normal chess. Now tell me that you can identify the units without looking at their initial position on the board. I remember I was playing a game against the AI and my roommate walked in, I asked if he wanted to play a game of chess with warhammer characters. Jump forward a couple of minutes in and we keep having to turn on the unit IDs that float above their heads, blocking and cluttering the board. When you are playing a game of classic chess the only way to identify the pieces is to turn on those identifiers, which can be a huge pain in the ass. But when you play a game of regicide the piece names are next to the unit name making it easier to identify pieces. 
+Go ahead and start a game of normal chess. Now tell me that you can identify the units without looking at their initial position on the board. I remember I was playing a game against the AI and my roommate walked in, I asked if he wanted to play a game of chess with warhammer characters. Jump forward a couple of minutes in and we keep having to turn on the unit IDs that float above their heads, blocking and cluttering the board. When you are playing a game of classic chess the only way to identify the pieces is to turn on those identifiers, which can be a huge pain in the ass. But when you play a game of regicide the piece names are next to the unit name making it easier to identify pieces.
 
 ![image](http://mousenjoypad.com/wp-content/uploads/2015/05/Image-21-1024x576.jpg "My face when I cant tell the pieces apart")
 
@@ -25,6 +25,9 @@ Regicide's game mode Regicide is one of the better implementations of modifying 
 
 ![image](http://media.gamerevolution.com/images/games/pc/warhammer-40000-regicide/warhammer-40000-regicide_011.jpg "Oh hell yes")
 
-But what if you don't want to play against other people because you suck at chess and also suck at regicide. Well Regicide has your back bro, you got campaign mode, and quick battles against a scalable AI. If quick battles aren't your thing the campaign has over 50 missions for you to fail at over and over again. So if single player chess against a computer is your thing well Regicide has you covered. 
+But what if you don't want to play against other people because you suck at chess and also suck at regicide. Well Regicide has your back bro, you got campaign mode, and quick battles against a scalable AI. If quick battles aren't your thing the campaign has over 50 missions for you to fail at over and over again. So if single player chess against a computer is your thing well Regicide has you covered.
 
 Overall the game has some UI issues, some minor bugs to be patched out and only two different sets of pieces. Yet the new game mode along with the beautiful death cinematics make me wanting more, which is great. I wouldn't mind seeing down the line some DLC to add in some additional factions and maybe even more campaign missions or scenarios. This game has been getting me to come back to play it whenever I get that chess itch. Or you know whenever I want to see a space marine get gibbed by an orc (which is always).
+
+
+Buy Warhammer 40k Regicide on [Steam](http://store.steampowered.com/app/322910/).

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Endless Legend - A Modern 4x Revival
 post_author: Jake Hayhurst
@@ -37,3 +37,6 @@ With the gameplay being similar to most 4x games, it will still have most of the
 
 
 To wrap things up, the game is a return to form for 4x games. It mixes the simplicity of the civilization games with the complexity of the 4x games of old. You will be micromanaging each city to create the perfect empire. You can write novels of your gameplay experiences as each play through will seem like an epic adventure even if you lose. The 4x fan in me wanted more customization and more complexity. At the same time its hard to complain as the combat system and the aesthetic of the game are spot on. Overall if you are a fan of 4x games you owe it to yourself to buy this game, and if you are new or have played civ and looking for a harder challenge go out and get Endless Legend.
+
+
+Buy Endless Legend on [Steam](http://store.steampowered.com/app/289130/).

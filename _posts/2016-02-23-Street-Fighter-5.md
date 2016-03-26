@@ -28,3 +28,6 @@ So with the gameplay and game mechanics out of the way, lets talk technical aspe
 
 
 Overall if you are a casual player then hold off on buying this game. Challenge mode will be released in March, and the full story mode will be out in March or June. While the barrier to entry is fairly low it is hindered by a lack of character tutorials, and single player modes. If you like fighting games and are willing to play online then there is no reason why you should not pick up Street Fighter 5.
+
+
+Buy Street Fighter 5 on [Steam](http://store.steampowered.com/app/310950/).
