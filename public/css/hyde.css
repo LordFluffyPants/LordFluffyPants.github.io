@@ -121,33 +121,37 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
-.content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
-}
+/** This Block updates the page and stops it from adjusting to wide monitors
+*/
+ .content {
+   padding-top:    4rem;
+   padding-bottom: 4rem;
+ }
 
-@media (min-width: 48em) {
-  .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
-  }
-  .content a,
-  .related-posts li a:hover {
-    color: #6a9fb5;
-  }
-}
-
-@media (min-width: 64em) {
-  .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
-  }
-  .content a,
-  .related-posts li a:hover {
-    color: #6a9fb5;
-  }
-}
+ @media (min-width: 48em) {
+   .content {
+     max-width: 78rem;
+     padding-left: 22rem;
+     margin-left: auto;
+     margin-right: auto;
+   }
+   .content a,
+   .related-posts li a:hover {
+     color: #6a9fb5;
+   }
+ }
+ /** Seems important but doesnt do anything
+ */
+ @media (min-width: 64em) {
+   .content {
+     margin-left: auto;
+     margin-right: auto;
+   }
+   .content a,
+   .related-posts li a:hover {
+     color: #6a9fb5;
+   }
+ }
 
 
 /*
@@ -163,10 +167,8 @@ a.sidebar-nav-item:focus {
     background-color: #6a9fb5;
   }
   .layout-reverse .content {
-   
     margin-left: 2rem;
     margin-right: 20rem;
-    
   }
   .layout-reverse .content a,
   .layout-reverse .related-posts li a:hover {
@@ -179,7 +181,7 @@ a.sidebar-nav-item:focus {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 20rem;
-    
+
   }
   .layout-reverse .content a,
   .layout-reverse .related-posts li a:hover {
