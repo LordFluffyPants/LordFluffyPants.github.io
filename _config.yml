@@ -9,8 +9,7 @@ permalink:        pretty
 # Setup
 title:            BOE Reviews
 description:      'The best opinions ever on the internet'
-tagline: 		  Best Opinions Ever
-url:              https://github.com/LordFluffyPants
+tagline: 		      Best Opinions Ever
 baseurl:          /
 
 author:
@@ -21,7 +20,4 @@ paginate:         5
 
 # Custom vars
 version:          1.1.0
-
-github:
-  repo:           https://github.com/LordFluffyPants
 gems: [jekyll-paginate]
