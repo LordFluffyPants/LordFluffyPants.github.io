@@ -7,6 +7,6 @@ If you are trying to contact us: (send us hate mail, ask a question, want to wri
 
 If you are trying to get in contact with us personally you may contact us at
 
-Jake Hayhurst: [Email](mailto:rixmaddi@gmail.com)
+Jake Hayhurst: [Twitter](https://twitter.com/LordFluffyPants)
 
 TK Stamm: [Steam profile](http://steamcommunity.com/profiles/76561198033602993/)
