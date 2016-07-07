@@ -14,6 +14,9 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     <span class="author">{{ post.post_author }}</span>
+    {% if post.headerImg != null %}
+    <img src = "{{post.headerImg}}">
+    {% endif %}
 
     {{ post.content | truncatewords:100 }}
     <a href ="{{ post.url }}"> Read More </a>
