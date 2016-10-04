@@ -6,7 +6,8 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   <span class="author">{{ page.post_author }}</span>
-  {% if page.headerImg == null %}
+  {% if page.developer == null %}
+    <img src = "{{page.headerImg}}">
     {{ content }}
   {% else %}
     <img src = "{{page.headerImg}}">
@@ -15,6 +16,7 @@ layout: default
     <b>Platform:</b> {{page.platform}}<br>
     <b>Released:</b> {{page.released}}<br>
     <b><i>{{page.copy}}</i></b>
+    <hr>
     {{ content }}
   {% endif %}
 </div>

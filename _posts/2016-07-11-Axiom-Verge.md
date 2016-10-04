@@ -9,7 +9,6 @@ released: May 14, 2015
 copy: Copy Purchased
 headerImg: /public/images/axiom_face.jpg
 ---
-<br>
 This game sits in the category of "I really like it, but got me so frustrated that I'm pretty sure my neighbors think I have mental health issues". Ignoring my pending mental health issues, this game is one that fills in something that has been missing in the game industry for quite some time, a true honest to god Metroid game. Supprisingly enough, the best Metroid game in years comes from a passion product from Thomas Happ. From the minute you start this game you can tell that the amount of love and care dumped into Axiom Verge.  
 
 If you have been living under a rock, Axiom Verge's biggest selling point is probably the amazing pixel art that is heavily inspired by H.R. Giger, and really draws you into the game's world. The music is also fantastic with a wide variety of chiptune style music that really makes you feel lost a foreign land. The music is different for all areas of the game, making each level feel different in its own special way. The art is no exception, each level has a different color pallet and theme surrounding it. The game is able to really tune into the fantastic worlds reminiscent of the NES and SNES days. Getting lost in games is something that I hate, but Axiom Verge made it interesting and almost fun to get lost and explore.
