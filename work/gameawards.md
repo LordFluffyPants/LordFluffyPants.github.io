@@ -1,0 +1,20 @@
+- Candidates
+    - Doom
+    - Planet Coaster
+    - Overwatch
+    - WoW: Legion
+    - Dark Souls 3
+    - KoF 14
+    - SF5
+    - Disgaea PC
+    - Stardew Vally
+    - Enter the Gungeon
+    - Stellaris
+    - Total War: Warhammer
+    - Odin Sphere Leifthrasir
+    - Tricky Towers
+    - Shadow Warrior 2
+    - Killing Floor 2
+- Criteria
+    - Played it
+    - not rereleased on new platform (HD remasters okay)
