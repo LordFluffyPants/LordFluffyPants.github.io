@@ -4,8 +4,7 @@ title: Games That Were Pretty Okay - 2016
 post_author: Jake Hayhurst & TK Stamm
 headerImg: /public/images/prettyokay.png
 
-
-# SHIT ABOUT AWARDS GOES HERE
+SHIT ABOUT AWARDS GOES HERE
 
 ---
 # Stellaris
