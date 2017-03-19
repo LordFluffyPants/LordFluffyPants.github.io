@@ -29,6 +29,11 @@ a:hover, a:active {
 textarea {
   font-family: "Roboto", sans-serif;
 }
+h1{
+    color: #1F2326;
+    text-align: center;
+    font-family: 'Roboto';
+}
 
 .background {
   background: #0d1011 url("../media/porch.jpg") no-repeat center fixed;
