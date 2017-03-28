@@ -77,7 +77,9 @@ var linkMenu = [
     ["Inbox",                     "https://inbox.google.com/u/0/",""],
     ["School Email",              "https://mail.google.com/mail/u/1/#inbox",""],
 
+
     [svgMore,                     "yellow",                                      "-HEAD-"], // Other
+    ["Food Log",                  "https://docs.google.com/spreadsheets/d/1eGnG88BUu7UyWwph0WaOzkWKJ5yRX77hFD5o0bN_rKg/edit", ""],
     ["Amazon",                    "https://smile.amazon.com/",""],
     ["Uniqlo",                    "https://www.uniqlo.com/us/en/home/",""],
     ["Icy-Viens",                 "http://www.icy-veins.com/",""],
