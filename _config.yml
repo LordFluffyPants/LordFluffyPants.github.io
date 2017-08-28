@@ -10,7 +10,7 @@ permalink:        pretty
 title:            BOE Reviews
 description:      'The best opinions ever on the internet'
 tagline: 		      Best Opinions Ever
-baseurl:          /
+baseurl:          "/"
 
 author:
   name:           'Jake Hayhurst'
