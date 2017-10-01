@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Street Fighter 5 - Casuals Matter Too
+title: "Street Fighter 5: Casuals Matter Too"
 post_author: Jake Hayhurst
 ---
 

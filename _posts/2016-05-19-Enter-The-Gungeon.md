@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enter the Gungeon - Gun Pun Fun
+title: "Enter the Gungeon: Gun Pun Fun"
 post_author: Jake Hayhurst
 ---
 

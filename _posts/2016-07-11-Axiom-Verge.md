@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Axiom Verge - Samus is now a dude
+title: "Axiom Verge: Samus is now a dude"
 post_author: Jake Hayhurst
 developer: Thomas Happ Games LLC
 publisher: Thomas Happ Games LLC

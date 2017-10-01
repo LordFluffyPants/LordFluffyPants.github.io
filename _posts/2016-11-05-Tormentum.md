@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tormentum Dark Sorrow - Heavy Metal Point and Click
+title: "Tormentum Dark Sorrow: Heavy Metal Point and Click"
 post_author: Jake Hayhurst
 developer: OhNoo Studio
 publisher: OhNoo Studio

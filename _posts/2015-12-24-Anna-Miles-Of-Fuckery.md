@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anna - Miles of What the Fuckery
+title: "Anna: Miles of What the Fuckery"
 post_author: TK Stamm
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Talos Principle - Arguing Philosophy with Librarians
+title: "The Talos Principle: Arguing Philosophy with Librarians"
 post_author: TK Stamm
 ---
 ![image](/public/images/Talos_Door.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Killer Instinct - ULTRAAAAAA!
+title: "Killer Instinct: ULTRAAAAAA!"
 post_author: Jake Hayhurst
 ---
 

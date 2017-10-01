@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reveal The Deep - A Scary Deal
+title: "Reveal The Deep: A Scary Deal"
 post_author: Jake Hayhurst
 ---
 
