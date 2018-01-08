@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Okami HD and 30 FPS
+title: Hollow Knight
 post_author: Jake Hayhurst
 headerImg: /public/images/update.jpg
 ---
