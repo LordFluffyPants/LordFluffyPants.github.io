@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Hollow Knight
+title: "A Hat in Time: This Game is Cute"
 post_author: Jake Hayhurst
 headerImg: /public/images/update.jpg
 developer:
 publisher:
-platform:
+platform: 
 released:
 copy: Copy Purchased
 ---
