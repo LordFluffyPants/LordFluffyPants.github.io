@@ -66,24 +66,16 @@ var linkMenu = [
     ["Amazon Prime",              "https://www.amazon.com/b/ref=PV_ShortUrl?_encoding=UTF8&node=2676882011",""],
     ["Spotify",                   "https://play.spotify.com/browse",""],
 
-    [svgGamepad,                  "magenta",                                     "-HEAD-"], // Gaming
-    ["Humble Bundle",             "https://www.humblebundle.com/",""],
-    ["PC Gamer",                  "http://www.pcgamer.com/",""],
-
     [svgCode,                     "red",                                         "-HEAD-"], // Code Stuff
     ["GitLab",                    "https://gitlab.com",""],
     ["Github",                    "https://github.com/",""],
     ["GoogleDrive",               "https://drive.google.com/drive/my-drive",""],
-    ["Inbox",                     "https://inbox.google.com/u/0/",""],
-    ["School Email",              "https://mail.google.com/mail/u/1/#inbox",""],
+    ["Inbox",                     "https://mail.google.com/mail/u/0/",""],
 
 
     [svgMore,                     "yellow",                                      "-HEAD-"], // Other
-    ["Food Log",                  "https://docs.google.com/spreadsheets/d/1eGnG88BUu7UyWwph0WaOzkWKJ5yRX77hFD5o0bN_rKg/edit", ""],
     ["Amazon",                    "https://smile.amazon.com/",""],
-    ["Uniqlo",                    "https://www.uniqlo.com/us/en/home/",""],
-    ["Icy-Viens",                 "http://www.icy-veins.com/",""],
-    ["Warcraft Logs",             "https://www.warcraftlogs.com/",""]
+    ["Google News",               "https://news.google.com/news/sfy?hl=en&gl=US&ned=us",""],
 
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
