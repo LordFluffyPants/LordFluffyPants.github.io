@@ -49,9 +49,8 @@ var svgMovie= "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2
 var linkMenu = [
 
     [svgSocial,                   "cyan",                                        "-HEAD-"], //Social
-    ["Facebook",                  "https://www.facebook.com/",""],
     ["Twitter",                   "https://twitter.com/",""],
-    ["Messenger",                 "https://www.messenger.com/",""],
+    ["Txt Messages",              "https://messages.google.com/web/conversations?redirected=true",""],
 
     [svgClover,                   "green",                                       "-HEAD-"],
     ["/b/",                       "http://boards.4chan.org/b/",""],
@@ -61,10 +60,13 @@ var linkMenu = [
 
     [svgMovie,                    "pink",                                       "-HEAD-"], // Media
     ["YouTube",                   "https://www.youtube.com/feed/subscriptions",""],
-    ["Twitch",                    "https://www.twitch.tv/",""],
     ["Netflix",                   "https://www.netflix.com/browse",""],
+    ["Disney+",                   "https://www.disneyplus.com/",""],
+    ["Hulu",                      "https://www.hulu.com/",""],
+    ["ESPN",                      "https://www.espn.com/watch/espnplus",""],
     ["Amazon Prime",              "https://www.amazon.com/b/ref=PV_ShortUrl?_encoding=UTF8&node=2676882011",""],
-    ["Spotify",                   "https://play.spotify.com/browse",""],
+    ["Twitch",                    "https://www.twitch.tv/",""],
+    
 
     [svgCode,                     "red",                                         "-HEAD-"], // Code Stuff
     ["GitLab",                    "https://gitlab.com",""],
